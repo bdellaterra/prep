@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 
 # The intent of this script is to use Bash as a template engine. It echoes the
-# contents of each file argumennt with shell parameter expansion. This allows
+# contents of each file argument with shell parameter expansion. This allows
 # environment variables to be embedded or advanced expansion syntax can be used
 # for greater versatility. This command will also process text piped via stdin.
 #
